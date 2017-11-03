@@ -1,5 +1,5 @@
-  Data from simulation of Jupiter mass planet migration
-  Thoudand Orbits, Error(EJ), a, e
+  Formation and Migration of Jupiter Mass Planet - (mu = 0.001, dm = 0.01, p = -3/2, sig = -2/3, dt = 0.004, np = 1.8Gp)
+  Million_ Orbits, Jacobi_Err, a, e
    5.029296      1.9962337E-05  0.9999187      1.4814768E-03
    5.092958      1.9729739E-05  0.9998934      4.2390409E-03
    5.156620      1.9305929E-05  0.9996589      6.3024922E-03
